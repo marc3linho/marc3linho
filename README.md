@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marc3linho
 - 👀 I’m interested in new technologies, science, 3d printing, coding and bitcoin
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning something new every day
 - 📫 How to reach me: nostr npub16cpe069rjz6pm5t42xcyhcn66f5rr04k64df3g03fk2wctlrlhsqycedcd
 
 <!---
